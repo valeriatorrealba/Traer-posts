@@ -9,7 +9,7 @@ const crearUl = document.createElement('ul');// crea la lista
     const url = "https://jsonplaceholder.typicode.com/posts"; // donde se capturan los datos
     try {
       const respuesta = await fetch(url); // manda una solicitud
-        const datos = await respuesta.json(); // convierte la respuesta json  
+      const datos = await respuesta.json(); // convierte la respuesta json  
 
         crearUl.innerHTML = ''; // borra el contenido para que no se duplique al hacer más de un click
           
