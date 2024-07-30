@@ -1,6 +1,7 @@
 # Desafío evaluado - Traer posts
 
-En desarrollo web, es esencial saber cómo consumir datos desde diversas fuentes, incluidas APIs. En este desafío, consumirás datos desde una API que devuelve un arreglo con ejemplos de "posts". Al pulsar un botón, realizarás una llamada a la API y mostrarás los datos obtenidos en una página web.
+En desarrollo web, es esencial saber cómo consumir datos desde diversas fuentes, incluidas APIs. En este desafío, consumirás datos desde una API que devuelve un arreglo con ejemplos de "posts". Al pulsar un botón, realizarás una llamada a la API 
+y mostrarás los datos obtenidos en una página web.
 
 ### Requerimientos
 
